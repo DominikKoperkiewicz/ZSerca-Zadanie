@@ -1,0 +1,819 @@
+fileFormatVersion: 2
+guid: 1efcdcd41e379e84e95876fb22604f49
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8672907954611335309
+    second: habanero_2_0
+  - first:
+      213: 5850499269581294612
+    second: habanero_2_1
+  - first:
+      213: -6777926594866495578
+    second: habanero_2_2
+  - first:
+      213: -2296875413225371955
+    second: habanero_2_3
+  - first:
+      213: 5250112995108348556
+    second: habanero_2_4
+  - first:
+      213: 7465051697575845602
+    second: habanero_2_5
+  - first:
+      213: 8192362200795111581
+    second: habanero_2_6
+  - first:
+      213: 4687621185190938922
+    second: habanero_2_7
+  - first:
+      213: 625832193722271823
+    second: habanero_2_8
+  - first:
+      213: 1267797814705912125
+    second: habanero_2_9
+  - first:
+      213: 4942862232902373106
+    second: habanero_2_10
+  - first:
+      213: -5662853190270305312
+    second: habanero_2_11
+  - first:
+      213: -4235388539942146107
+    second: habanero_2_12
+  - first:
+      213: -4154452357457611677
+    second: habanero_2_13
+  - first:
+      213: 6227333792637355680
+    second: habanero_2_14
+  - first:
+      213: -2876163152989228400
+    second: habanero_2_15
+  - first:
+      213: -4238657848231523023
+    second: habanero_2_16
+  - first:
+      213: -2087750826087590824
+    second: habanero_2_17
+  - first:
+      213: -6704545945137878177
+    second: habanero_2_18
+  - first:
+      213: -551238649605427133
+    second: habanero_2_19
+  - first:
+      213: 8073063987641145079
+    second: habanero_2_20
+  - first:
+      213: -63128236389323441
+    second: habanero_2_21
+  - first:
+      213: -7208315803463357198
+    second: habanero_2_22
+  - first:
+      213: -8089694024932245724
+    second: habanero_2_23
+  - first:
+      213: -5611786441973438979
+    second: habanero_2_24
+  - first:
+      213: 6595857686778518701
+    second: habanero_2_25
+  - first:
+      213: -2584146923971280909
+    second: habanero_2_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: habanero_2_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2194
+        width: 538
+        height: 892
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80b44c65db5c5870800000000000000
+      internalID: 8672907954611335309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habanero_2_1
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 2397
+        width: 545
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c4312a616213150800000000000000
+      internalID: 5850499269581294612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habanero_2_2
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 2856
+        width: 208
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af3f474ca7ffe1a0800000000000000
+      internalID: -6777926594866495578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habanero_2_3
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 2870
+        width: 151
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc68f552bfbdf10e0800000000000000
+      internalID: -2296875413225371955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habanero_2_4
+      rect:
+        serializedVersion: 2
+        x: 2228
+        y: 2606
+        width: 412
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c826818e3f52cd840800000000000000
+      internalID: 5250112995108348556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habanero_2_5
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 2505
+        width: 576
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee5fe7a7f0399760800000000000000
+      internalID: 7465051697575845602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habanero_2_6
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 2093
+        width: 552
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90eab1440e11b170800000000000000
+      internalID: 8192362200795111581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habanero_2_7
+      rect:
+        serializedVersion: 2
+        x: 2345
+        y: 2378
+        width: 84
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29c6e0c1a6cd0140800000000000000
+      internalID: 4687621185190938922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habanero_2_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1283
+        width: 576
+        height: 911
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48c1db70176fa800800000000000000
+      internalID: 625832193722271823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habanero_2_9
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 1922
+        width: 599
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39ff88356f189110800000000000000
+      internalID: 1267797814705912125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habanero_2_10
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 2173
+        width: 487
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe07dd2303989440800000000000000
+      internalID: 4942862232902373106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habanero_2_11
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 1734
+        width: 352
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eb30cac6018961b0800000000000000
+      internalID: -5662853190270305312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habanero_2_12
+      rect:
+        serializedVersion: 2
+        x: 2345
+        y: 2151
+        width: 84
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cfecfe1090e835c0800000000000000
+      internalID: -4235388539942146107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habanero_2_13
+      rect:
+        serializedVersion: 2
+        x: 2635
+        y: 1874
+        width: 367
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3647475979b6856c0800000000000000
+      internalID: -4154452357457611677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habanero_2_14
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1283
+        width: 568
+        height: 809
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a68fef271feb6650800000000000000
+      internalID: 6227333792637355680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habanero_2_15
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 1179
+        width: 570
+        height: 743
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0927206d9d0d518d0800000000000000
+      internalID: -2876163152989228400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habanero_2_16
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 1322
+        width: 474
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d0db7f4234d25c0800000000000000
+      internalID: -4238657848231523023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habanero_2_17
+      rect:
+        serializedVersion: 2
+        x: 2231
+        y: 1628
+        width: 403
+        height: 491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 854558f5fa1d603e0800000000000000
+      internalID: -2087750826087590824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habanero_2_18
+      rect:
+        serializedVersion: 2
+        x: 2707
+        y: 1525
+        width: 185
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b65cf2cfaa4f2a0800000000000000
+      internalID: -6704545945137878177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habanero_2_19
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 643
+        width: 868
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3407dc76e5b9958f0800000000000000
+      internalID: -551238649605427133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habanero_2_20
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 577
+        width: 868
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f659508ce8490070800000000000000
+      internalID: 8073063987641145079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habanero_2_21
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 603
+        width: 872
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4da7b61439bf1ff0800000000000000
+      internalID: -63128236389323441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habanero_2_22
+      rect:
+        serializedVersion: 2
+        x: 2609
+        y: 807
+        width: 503
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc6bb1d7fae6fb90800000000000000
+      internalID: -7208315803463357198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habanero_2_23
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 1
+        width: 457
+        height: 806
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f30563522abbf80800000000000000
+      internalID: -8089694024932245724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habanero_2_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 868
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5e1daa6fdee12b0800000000000000
+      internalID: -5611786441973438979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habanero_2_25
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 1
+        width: 911
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac9679ae91398b50800000000000000
+      internalID: 6595857686778518701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: habanero_2_26
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 1
+        width: 868
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fff5456014432cd0800000000000000
+      internalID: -2584146923971280909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      habanero_2_0: 8672907954611335309
+      habanero_2_1: 5850499269581294612
+      habanero_2_10: 4942862232902373106
+      habanero_2_11: -5662853190270305312
+      habanero_2_12: -4235388539942146107
+      habanero_2_13: -4154452357457611677
+      habanero_2_14: 6227333792637355680
+      habanero_2_15: -2876163152989228400
+      habanero_2_16: -4238657848231523023
+      habanero_2_17: -2087750826087590824
+      habanero_2_18: -6704545945137878177
+      habanero_2_19: -551238649605427133
+      habanero_2_2: -6777926594866495578
+      habanero_2_20: 8073063987641145079
+      habanero_2_21: -63128236389323441
+      habanero_2_22: -7208315803463357198
+      habanero_2_23: -8089694024932245724
+      habanero_2_24: -5611786441973438979
+      habanero_2_25: 6595857686778518701
+      habanero_2_26: -2584146923971280909
+      habanero_2_3: -2296875413225371955
+      habanero_2_4: 5250112995108348556
+      habanero_2_5: 7465051697575845602
+      habanero_2_6: 8192362200795111581
+      habanero_2_7: 4687621185190938922
+      habanero_2_8: 625832193722271823
+      habanero_2_9: 1267797814705912125
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
