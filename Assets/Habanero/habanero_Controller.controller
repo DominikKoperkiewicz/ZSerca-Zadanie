@@ -165,8 +165,7 @@ AnimatorState:
   m_CycleOffset: 0
   m_Transitions:
   - {fileID: -1605769394905057190}
-  m_StateMachineBehaviours:
-  - {fileID: -9031250108979820796}
+  m_StateMachineBehaviours: []
   m_Position: {x: 50, y: 50, z: 0}
   m_IKOnFeet: 0
   m_WriteDefaultValues: 1
@@ -602,9 +601,9 @@ AnimationClip:
   m_HasMotionFloatCurves: 0
   m_Events:
   - time: 0.36666667
-    functionName: PlayCoughSound
+    functionName: PlaySFX
     data: 
-    objectReferenceParameter: {fileID: 0}
+    objectReferenceParameter: {fileID: 8300000, guid: 2c7bb077025a60742b4a84227d4b7f34, type: 3}
     floatParameter: 0
     intParameter: 0
     messageOptions: 0

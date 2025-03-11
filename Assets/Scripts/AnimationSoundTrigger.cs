@@ -2,14 +2,8 @@ using UnityEngine;
 
 public class AnimationSoundTrigger : MonoBehaviour
 {
-    [Header("Sounds")]
-    [SerializeField] private AudioClip coughSound;
-
-    public void PlayCoughSound()
+    public void PlaySFX(AudioClip audioClip)
     {
-        if (coughSound != null)
-        {
-            SoundManager.Instance.PlaySFX(coughSound);
-        }
+        SoundManager.Instance.PlaySFX(audioClip);
     }
 }

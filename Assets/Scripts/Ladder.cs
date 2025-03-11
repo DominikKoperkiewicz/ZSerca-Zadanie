@@ -1,4 +1,3 @@
-using NUnit.Framework;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -39,7 +38,6 @@ public class Ladder : MonoBehaviour
         if (collision.TryGetComponent<Player>(out Player player))
         {
             player.targetLadder = this;
-            Debug.Log("LADDER TARGET SET", player.targetLadder);
         }
     }
     private void OnTriggerExit2D(Collider2D collision)
@@ -47,7 +45,6 @@ public class Ladder : MonoBehaviour
         if (collision.TryGetComponent<Player>(out Player player))
         {
             player.targetLadder = null;
-            Debug.Log("LADDER TARGET CLEARED", player.targetLadder);
         }
     }
 }
