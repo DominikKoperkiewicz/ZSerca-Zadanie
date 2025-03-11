@@ -134,19 +134,21 @@ public class Player : MonoBehaviour
 
         if (this.transform.position.y < targetLadder.BottomExitPoint.position.y)
         {
-            IsClimbing = false;
-            entityRigidbody.linearVelocityY = 0;
-            animator.speed = 1.0f;
-            SnapToPosition(targetLadder.BottomExitPoint.position);
+            ExitLadder(targetLadder.BottomExitPoint);
         }
 
         if (this.transform.position.y > targetLadder.UpperExitPoint.position.y)
         {
-            IsClimbing = false;
-            entityRigidbody.linearVelocityY = 0;
-            animator.speed = 1.0f;
-            SnapToPosition(targetLadder.UpperExitPoint.position);
+            ExitLadder(targetLadder.UpperExitPoint);
         }
+    }
+
+    private void ExitLadder(Transform exitPoint) 
+    {
+        IsClimbing = false;
+        entityRigidbody.linearVelocityY = 0;
+        animator.speed = 1.0f;
+        SnapToPosition(exitPoint.position);
     }
 
     public void SnapToPosition(Vector3 targetPosition)
